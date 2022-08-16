@@ -2,9 +2,9 @@
 
 Overview
 ---------------
-Implicit Session Contexts for Next-Item Recommendations
-[Sejoon Oh](https://sejoonoh.github.io/), Ankur Bhardwaj, Jongseok Han, [Sungchul Kim](https://research.adobe.com/person/sungchul-kim/), [Ryan A. Rossi](http://ryanrossi.com/), and [Srijan Kumar](https://www.cc.gatech.edu/~srijan/)
-*[ACM International Conference on Information and Knowledge Management (CIKM)](https://www.cikm2022.org/) short paper, 2022*  
+Implicit Session Contexts for Next-Item Recommendations  
+[Sejoon Oh](https://sejoonoh.github.io/), Ankur Bhardwaj, Jongseok Han, [Sungchul Kim](https://research.adobe.com/person/sungchul-kim/), [Ryan A. Rossi](http://ryanrossi.com/), and [Srijan Kumar](https://www.cc.gatech.edu/~srijan/)  
+*[ACM International Conference on Information and Knowledge Management (CIKM)](https://www.cikm2022.org/) short paper, 2022*   
 
 Link to the paper PDF - will be ready soon.
 
