@@ -18,7 +18,7 @@ Usage
 The detailed execution procedure of **ISCON** is given as follows.
 
 1) Install all required libraries by "pip install -r requirements.txt" (Python 3.6 or higher version is required).
-3) "python src/main.py [arguments]" will execute PERCY with arguments, and specific information of the arguments are as follows.
+3) "python src/main.py [arguments]" will execute ISCON with arguments, and specific information of the arguments are as follows.
 
 ````
 --data_name: name of the input data (e.g., reddit). The corresponding data should be in the data directory with the file name "[data_name].tsv".
@@ -39,7 +39,7 @@ To run the demo, please follow the following procedure. **ISCON** demo will be e
 
 	1. Check permissions of files (if not, use the command "chmod 777 *")
 	2. Execute "./demo.sh"
-	3. Check "output/reddit_demo" for the demo result of PERCY on the Reddit dataset
+	3. Check "output/reddit_demo" for the demo result of ISCON on the Reddit dataset
   
 Tested Environment
 ---------------
