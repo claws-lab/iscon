@@ -1,2 +1,3 @@
+mkdir emb
 mkdir output
-python3 src/main.py --data_name reddit --output reddit_demo
+python src/main.py --data_name reddit --output reddit_demo --gpu 1
