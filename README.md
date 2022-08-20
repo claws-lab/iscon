@@ -1,4 +1,4 @@
-# Implicit Session Contexts for Next-Item Recommendations (ACM CIKM 2022 short paper)
+# Implicit Session Contexts for Next-Item Recommendations (ACM CIKM 2022 paper)
 
 Overview
 ---------------
