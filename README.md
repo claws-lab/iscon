@@ -6,7 +6,7 @@ Overview
 [Sejoon Oh](https://sejoonoh.github.io/), Ankur Bhardwaj, Jongseok Han, [Sungchul Kim](https://research.adobe.com/person/sungchul-kim/), [Ryan A. Rossi](http://ryanrossi.com/), and [Srijan Kumar](https://www.cc.gatech.edu/~srijan/)  
 *[ACM International Conference on Information and Knowledge Management (CIKM)](https://www.cikm2022.org/) short paper, 2022*   
 
-Link to the paper PDF - will be ready soon.
+[Link to the paper PDF](https://arxiv.org/abs/2208.09076)
 
 **ISCON** is a novel session-based recommendation framework that contextualize sessions and utilizes the contextual embeddings for the next-item prediction.  
 **Datasets** used for in the paper are available at the following link.  
